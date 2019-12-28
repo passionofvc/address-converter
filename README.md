@@ -1,5 +1,17 @@
 # address-converter
 ```
 bulk convert p2sh ltc address.
-bulk convert address between BTC and BTG.
+$ python3 convert_ltc_p2sh_addr.py
+MGxqw8FYxzFpfsh9j7Qt4YDzE1FqrXx5te	3AkhdEqb1sQPsNRFdERYEtyauJfPo9Bk16
+3AkhdEqb1sQPsNRFdERYEtyauJfPo9Bk16	MGxqw8FYxzFpfsh9j7Qt4YDzE1FqrXx5te
+QV9WVCR56iuDJtE87az6U3w1ExWdCYJT1o	2N1nkNBYq5cr8AhU5VUx5PMVa6a4oKwpYCM
+2N1nkNBYq5cr8AhU5VUx5PMVa6a4oKwpYCM	QV9WVCR56iuDJtE87az6U3w1ExWdCYJT1o
+
+
+bulk convert address format between BTC and BTG.
+$ python3 convert_btc_btg_addr.py
+39NYU1k5r5N7zBtkSLLoa9iAb6Dw6jRRcG	APTQBy7GdKhthzQJstLYJQcKvArurE7Akw
+APTQBy7GdKhthzQJstLYJQcKvArurE7Akw	39NYU1k5r5N7zBtkSLLoa9iAb6Dw6jRRcG
+GNPiUDqYgLJvgz7REtzqYYdh58fiE4qYw3	15Yo46WbhUhdcWp8JxLj7nHo9xssEJrZ8F
+15Yo46WbhUhdcWp8JxLj7nHo9xssEJrZ8F	GNPiUDqYgLJvgz7REtzqYYdh58fiE4qYw3
 
